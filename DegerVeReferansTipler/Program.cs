@@ -7,6 +7,7 @@ sayi2 = 65;
 Console.WriteLine(sayi1);
 Console.WriteLine(sayi2);
 
+
 // int, bool, decimal, double, floot değer tip olduğundan sayi1 30 değerini alır. Değer tipler stack belleğinde gerçekleşir.
 
 int[] sayilar1 = new int[] { 10, 20, 30};
